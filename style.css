@@ -1,0 +1,110 @@
+.head_text{
+    font-family: 'Luckiest Guy', cursive; 
+}
+
+.head-link{
+    color: #c13737;
+}
+
+.head-link:hover{
+    color: #191818;
+}
+ 
+.navbar a{
+    cursor: pointer;
+}
+.navbar a:hover{
+    color: white;
+
+}
+
+.section{
+    padding: 2px;
+}
+
+.main{
+    padding: 10px;
+    margin-top: 20px;
+}
+.main-h1{
+    font-family: 'Rosario', sans-serif;
+
+     
+}
+
+.main p{
+    font-family: 'Cabin', sans-serif;
+
+}
+.main-pic{
+    background: url("imgs/food-sweet-potatoes-wooden-89247.jpg");
+    width: 48vw;
+    height: 50vh;
+    margin-left: 2px;
+    
+    
+}
+.my-40{
+    margin-top: 40px;
+}
+
+.footer_text{
+    font-family: 'Luckiest Guy', cursive; 
+    font-size: 50px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+}
+
+.footer_p{
+    font-family: Arial;
+    font-size: 15px;
+    padding: 10px;
+    margin-left: 10px;
+
+}
+
+footer span{
+    margin-top: 50px;
+    
+}
+
+.footer-link a{
+    display: inline-block;
+    color: #c13737;
+    font-size: 20px;
+    font-family: Arial;
+}
+
+.footer-contact{
+    margin-top: 10px;
+}
+
+.footer-contact p{
+    font-family: Arial;
+}
+
+.footer-contact h3{
+   font-family: 'Cabin', sans-serif;
+}
+
+#Cards{
+    margin: 1px;
+    padding: 5px;
+    font-family: 'Cabin', sans-serif;
+}
+
+.bg-grey, hr{
+    background-color: #eaeaea;
+    color: black;
+}
+.bg-footer{
+    background-color: #4a4747;
+}
+
+.footer-link a:hover{
+    color: #cbc7c7;
+    text-decoration: none;
+    
+}
